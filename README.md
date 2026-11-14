@@ -1,2 +1,3 @@
-# talentspot-privacy
-Privacy Policy for TalentSpot app
+# TalentDikhao
+
+Official website and Privacy Policy for the **TalentDikhao** Android application.
